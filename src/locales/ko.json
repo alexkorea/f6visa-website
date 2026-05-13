@@ -1,0 +1,157 @@
+{
+  "site": {
+    "name": "f6visa.com",
+    "tagline": "F-6 결혼비자 전문 행정사 컨설팅",
+    "description": "F-6-1, F-6-2, F-6-3 결혼비자 취득 절차와 87개국 국가별 필요서류를 한곳에서 안내합니다."
+  },
+  "nav": {
+    "home": "홈",
+    "visa": "F-6 비자",
+    "f61": "F-6-1",
+    "f62": "F-6-2",
+    "f63": "F-6-3",
+    "countries": "국가별 안내",
+    "tools": "도구",
+    "tools_eligibility": "자격 자가진단",
+    "tools_checklist": "서류 체크리스트",
+    "tools_estimator": "비용 계산기",
+    "blog": "사례 블로그",
+    "about": "소개",
+    "contact": "상담신청"
+  },
+  "cta": {
+    "consult": "무료 상담 신청",
+    "consultShort": "상담 신청",
+    "viewMore": "자세히 보기",
+    "viewAll": "전체 보기",
+    "downloadChecklist": "서류 체크리스트 PDF 다운로드"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "행정사 직접 상담",
+      "title": "F-6 결혼비자, 시작부터 도착까지",
+      "subtitle": "베트남·태국·필리핀·중국·일본·러시아 등 87개국 국제결혼 혼인신고와 결혼비자(F-6) 신청을 행정사가 직접 검토·대리합니다.",
+      "selectCountry": "배우자 국가를 선택하세요",
+      "search": "국가명 검색"
+    },
+    "featuredCountries": "주요 국가",
+    "process": {
+      "title": "3단계로 끝나는 F-6 신청",
+      "step1": { "title": "1. 무료 상담", "desc": "현재 상황과 배우자 국적을 확인합니다." },
+      "step2": { "title": "2. 서류 준비·대리", "desc": "국가별 필요서류 체크리스트와 번역공증을 행정사가 직접 처리합니다." },
+      "step3": { "title": "3. 사증 발급", "desc": "출입국·외국인청 신청까지 마무리하여 비자를 받게 합니다." }
+    },
+    "trust": {
+      "title": "왜 f6visa.com 인가요?",
+      "items": [
+        { "title": "행정사가 직접 처리", "desc": "사무장·소개업체가 아닌 자격 보유 행정사가 검토·대리합니다." },
+        { "title": "87개국 사례 데이터", "desc": "동남아·CIS·유럽·중남미·중동·아프리카 전 지역 절차 데이터베이스화." },
+        { "title": "최신 법령 반영", "desc": "출입국관리법 개정·매뉴얼 업데이트를 즉시 반영합니다." }
+      ]
+    },
+    "blogTitle": "최근 사례·상담사례"
+  },
+  "visa": {
+    "f61": {
+      "label": "F-6-1",
+      "title": "F-6-1 한국인의 외국인 배우자",
+      "summary": "한국인과 혼인이 성립되어 한국에서 함께 거주하려는 외국인 배우자를 위한 비자입니다."
+    },
+    "f62": {
+      "label": "F-6-2",
+      "title": "F-6-2 한국인 자녀 양육자",
+      "summary": "한국인과 혼인 관계에서 출생한 미성년 자녀를 한국에서 양육해야 하는 외국인을 위한 비자입니다."
+    },
+    "f63": {
+      "label": "F-6-3",
+      "title": "F-6-3 혼인 단절자",
+      "summary": "본인의 책임 없는 사유로 혼인관계가 단절되었으나 한국체류가 필요한 경우의 비자입니다."
+    }
+  },
+  "country": {
+    "tabKoreaFirst": "한국에서 먼저 혼인신고",
+    "tabAbroadFirst": "현지에서 먼저 혼인신고",
+    "metaUpdated": "최근 업데이트",
+    "metaDifficulty": "서류 난이도",
+    "metaDays": "평균 처리 소요",
+    "checklistTitle": "필요서류 체크리스트",
+    "noticeTitle": "주요 유의사항",
+    "difficulty": { "상": "상", "중": "중", "하": "하" },
+    "daysSuffix": "일",
+    "regions": {
+      "동북아시아": "동북아시아",
+      "동남아시아": "동남아시아",
+      "남아시아": "남아시아",
+      "중앙아시아": "중앙아시아·CIS",
+      "서유럽": "서유럽",
+      "북유럽": "북유럽",
+      "중동유럽": "중·동유럽",
+      "북미": "북미",
+      "중남미": "중남미",
+      "오세아니아": "오세아니아",
+      "중동": "중동",
+      "아프리카": "아프리카"
+    },
+    "filter": {
+      "all": "전체",
+      "search": "국가 검색",
+      "noResult": "검색 결과가 없습니다."
+    }
+  },
+  "contact": {
+    "title": "F-6 결혼비자 무료 상담 신청",
+    "subtitle": "행정사가 24시간 이내에 회신드립니다.",
+    "office": {
+      "rep": "대표 행정사",
+      "regNoLabel": "자격번호",
+      "addressLabel": "주소",
+      "phoneLabel": "연락처",
+      "emailLabel": "이메일",
+      "hoursLabel": "운영시간",
+      "hoursValue": "월~금 9:30 AM - 5:30 PM / 토,일,공휴일 휴무"
+    },
+    "form": {
+      "name": "성함",
+      "phone": "연락처",
+      "email": "이메일",
+      "spouseCountry": "배우자 국적",
+      "selectCountry": "국가를 선택하세요",
+      "situation": "현재 상황",
+      "situationOptions": {
+        "preMarriage": "혼인 전 (절차 문의)",
+        "marriageDone": "혼인신고 완료",
+        "visaApply": "비자 신청 직전",
+        "rejected": "사증 거부 이력 있음",
+        "other": "기타"
+      },
+      "preferredTime": "희망 상담 일시",
+      "message": "상담 내용",
+      "consent": "개인정보 수집·이용에 동의합니다.",
+      "submit": "상담 신청",
+      "submitting": "전송 중…",
+      "success": "신청이 접수되었습니다. 24시간 이내에 회신드립니다.",
+      "error": "전송 중 오류가 발생했습니다. 잠시 후 다시 시도해 주세요."
+    }
+  },
+  "blogList": {
+    "tag": "사례 · 팁 · 법령",
+    "subtitle": "실제 케이스에서 자주 마주치는 이슈를 출입국·대사관 실무 기준으로 정리합니다.",
+    "ctaTitle": "국가별 절차 자료가 필요하신가요?",
+    "ctaText": "87개국 혼인신고 절차·필요서류는 국가별 페이지에서 확인하실 수 있습니다.",
+    "ctaLink": "국가별 안내 보기 →",
+    "readMore": "자세히 보기 →",
+    "recentTitle": "최근 글"
+  },
+  "footer": {
+    "office": "행정사 사무소",
+    "rights": "All rights reserved.",
+    "disclaimer": "본 사이트의 정보는 일반 안내용이며, 개별 사안은 행정사 상담을 통해 확인하시기 바랍니다.",
+    "links": {
+      "privacy": "개인정보처리방침",
+      "terms": "이용약관"
+    }
+  },
+  "translation": {
+    "draftBanner": "이 페이지는 자동 번역 초안입니다. 정확한 절차는 한국어 원문을 참고하세요."
+  }
+}

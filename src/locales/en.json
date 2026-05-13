@@ -1,0 +1,148 @@
+{
+  "site": {
+    "name": "f6visa.com",
+    "tagline": "F-6 Marriage Visa Korea — Professional Consulting",
+    "description": "End-to-end guidance on F-6-1, F-6-2, and F-6-3 marriage visa procedures and country-specific document requirements for 87 countries."
+  },
+  "nav": {
+    "home": "Home",
+    "visa": "F-6 Visa",
+    "f61": "F-6-1",
+    "f62": "F-6-2",
+    "f63": "F-6-3",
+    "countries": "By Country",
+    "tools": "Tools",
+    "tools_eligibility": "Eligibility Check",
+    "tools_checklist": "Document Checklist",
+    "tools_estimator": "Cost Estimator",
+    "blog": "Case Blog",
+    "about": "About",
+    "contact": "Get a Consultation"
+  },
+  "cta": {
+    "consult": "Free Consultation",
+    "consultShort": "Consult",
+    "viewMore": "Learn more",
+    "viewAll": "View all",
+    "downloadChecklist": "Download Checklist (PDF)"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Direct consultation by a licensed administrative attorney",
+      "title": "Korean F-6 Marriage Visa, From Start to Finish",
+      "subtitle": "We handle marriage registration and F-6 marriage visa applications for spouses from 87 countries — Vietnam, Thailand, Philippines, China, Japan, Russia and more.",
+      "selectCountry": "Select your spouse's country",
+      "search": "Search countries"
+    },
+    "featuredCountries": "Featured countries",
+    "process": {
+      "title": "F-6 application in 3 steps",
+      "step1": { "title": "1. Free Consultation", "desc": "Review your situation and your spouse's nationality." },
+      "step2": { "title": "2. Document Preparation", "desc": "Country-specific document checklist with notarized translation handled in-house." },
+      "step3": { "title": "3. Visa Issuance", "desc": "We handle filing with Korean Immigration through to visa issuance." }
+    },
+    "trust": {
+      "title": "Why f6visa.com",
+      "items": [
+        { "title": "Licensed attorney handles your case", "desc": "Not a broker — a registered Korean administrative attorney directly reviews and represents you." },
+        { "title": "87-country case database", "desc": "Procedures from Southeast Asia, CIS, Europe, Latin America, Middle East and Africa." },
+        { "title": "Latest regulations", "desc": "Updates to the Immigration Act and official manuals are reflected immediately." }
+      ]
+    },
+    "blogTitle": "Recent cases & FAQs"
+  },
+  "visa": {
+    "f61": {
+      "label": "F-6-1",
+      "title": "F-6-1 Spouse of a Korean National",
+      "summary": "For foreign spouses who have legally married a Korean national and intend to reside together in Korea."
+    },
+    "f62": {
+      "label": "F-6-2",
+      "title": "F-6-2 Caretaker of a Korean Child",
+      "summary": "For foreign nationals who must raise a minor child born of a marriage with a Korean national in Korea."
+    },
+    "f63": {
+      "label": "F-6-3",
+      "title": "F-6-3 Marriage Dissolved Without Fault",
+      "summary": "For those who can no longer maintain the marriage through no fault of their own and require continued residence in Korea."
+    }
+  },
+  "country": {
+    "tabKoreaFirst": "Register marriage in Korea first",
+    "tabAbroadFirst": "Register marriage abroad first",
+    "metaUpdated": "Last updated",
+    "metaDifficulty": "Document complexity",
+    "metaDays": "Avg. processing days",
+    "checklistTitle": "Document checklist",
+    "noticeTitle": "Key cautions",
+    "regions": {
+      "동북아시아": "Northeast Asia",
+      "동남아시아": "Southeast Asia",
+      "남아시아": "South Asia",
+      "중앙아시아": "Central Asia / CIS",
+      "서유럽": "Western Europe",
+      "북유럽": "Northern Europe",
+      "중동유럽": "Central / Eastern Europe",
+      "북미": "North America",
+      "중남미": "Latin America",
+      "오세아니아": "Oceania",
+      "중동": "Middle East",
+      "아프리카": "Africa"
+    },
+    "filter": { "all": "All", "search": "Search country", "noResult": "No matches." },
+    "difficulty": { "상": "High", "중": "Medium", "하": "Low" },
+    "daysSuffix": " days"
+  },
+  "contact": {
+    "title": "Free F-6 Marriage Visa Consultation",
+    "subtitle": "We respond within 24 hours.",
+    "office": {
+      "rep": "Lead Attorney",
+      "regNoLabel": "License No.",
+      "addressLabel": "Address",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "hoursLabel": "Office hours",
+      "hoursValue": "Mon-Fri 9:30 AM - 5:30 PM / Sat, Sun, Holidays: Closed"
+    },
+    "form": {
+      "name": "Full name",
+      "phone": "Phone",
+      "email": "Email",
+      "spouseCountry": "Spouse nationality",
+      "selectCountry": "Select country",
+      "situation": "Current situation",
+      "situationOptions": {
+        "preMarriage": "Before marriage (procedure inquiry)",
+        "marriageDone": "Marriage already registered",
+        "visaApply": "About to file visa",
+        "rejected": "Previous visa refusal",
+        "other": "Other"
+      },
+      "preferredTime": "Preferred consultation time",
+      "message": "Tell us about your situation",
+      "consent": "I consent to the collection and use of my personal information.",
+      "submit": "Submit",
+      "submitting": "Submitting…",
+      "success": "Your request was received. We will reply within 24 hours.",
+      "error": "Submission failed. Please try again later."
+    }
+  },
+  "blogList": {
+    "tag": "Cases · Tips · Law",
+    "subtitle": "Recurring issues distilled from immigration and consulate practice.",
+    "ctaTitle": "Looking for country-specific procedures?",
+    "ctaText": "Marriage-registration procedures and documents for 87 countries are organized on the by-country pages.",
+    "ctaLink": "View by country →",
+    "readMore": "Read more →",
+    "recentTitle": "Recent posts"
+  },
+  "footer": {
+    "office": "Administrative Attorney Office",
+    "rights": "All rights reserved.",
+    "disclaimer": "Information on this site is general guidance. Please confirm your specific case with a licensed attorney.",
+    "links": { "privacy": "Privacy Policy", "terms": "Terms" }
+  },
+  "translation": { "draftBanner": "This page is a machine-translated draft. Refer to the Korean original for accurate procedures." }
+}

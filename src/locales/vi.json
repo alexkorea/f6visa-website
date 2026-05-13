@@ -1,0 +1,136 @@
+{
+  "site": {
+    "name": "f6visa.com",
+    "tagline": "Tư vấn chuyên nghiệp visa kết hôn Hàn Quốc F-6",
+    "description": "Hướng dẫn đầy đủ về thủ tục visa F-6-1, F-6-2, F-6-3 và hồ sơ theo từng quốc gia (87 nước)."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "visa": "Visa F-6",
+    "f61": "F-6-1",
+    "f62": "F-6-2",
+    "f63": "F-6-3",
+    "countries": "Theo quốc gia",
+    "tools": "Công cụ",
+    "tools_eligibility": "Kiểm tra điều kiện",
+    "tools_checklist": "Danh mục hồ sơ",
+    "tools_estimator": "Ước tính chi phí",
+    "blog": "Trường hợp thực tế",
+    "about": "Giới thiệu",
+    "contact": "Đăng ký tư vấn"
+  },
+  "cta": {
+    "consult": "Tư vấn miễn phí",
+    "consultShort": "Tư vấn",
+    "viewMore": "Xem chi tiết",
+    "viewAll": "Xem tất cả",
+    "downloadChecklist": "Tải danh mục hồ sơ (PDF)"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Tư vấn trực tiếp từ luật sư hành chính",
+      "title": "Visa kết hôn F-6 Hàn Quốc — từ A đến Z",
+      "subtitle": "Chúng tôi xử lý đăng ký kết hôn và xin visa F-6 cho vợ/chồng đến từ 87 quốc gia: Việt Nam, Thái Lan, Philippines, Trung Quốc, Nhật Bản, Nga…",
+      "selectCountry": "Chọn quốc tịch của vợ/chồng",
+      "search": "Tìm kiếm quốc gia"
+    },
+    "featuredCountries": "Quốc gia tiêu biểu",
+    "process": {
+      "title": "3 bước xin visa F-6",
+      "step1": { "title": "1. Tư vấn miễn phí", "desc": "Xem xét tình trạng và quốc tịch vợ/chồng." },
+      "step2": { "title": "2. Chuẩn bị hồ sơ", "desc": "Danh mục hồ sơ theo quốc gia, dịch công chứng do luật sư xử lý." },
+      "step3": { "title": "3. Cấp visa", "desc": "Nộp hồ sơ tại Cục xuất nhập cảnh đến khi cấp visa." }
+    },
+    "trust": {
+      "title": "Tại sao chọn f6visa.com",
+      "items": [
+        { "title": "Luật sư trực tiếp xử lý", "desc": "Không phải môi giới — luật sư hành chính có chứng chỉ trực tiếp đại diện." },
+        { "title": "Dữ liệu 87 quốc gia", "desc": "Quy trình ở Đông Nam Á, CIS, châu Âu, Mỹ Latin, Trung Đông và châu Phi." },
+        { "title": "Pháp luật mới nhất", "desc": "Cập nhật tức thời các thay đổi của Luật xuất nhập cảnh." }
+      ]
+    },
+    "blogTitle": "Trường hợp & câu hỏi thường gặp"
+  },
+  "visa": {
+    "f61": { "label": "F-6-1", "title": "F-6-1 Vợ/chồng người Hàn Quốc", "summary": "Dành cho người nước ngoài đã kết hôn hợp pháp với công dân Hàn Quốc và muốn cư trú cùng tại Hàn." },
+    "f62": { "label": "F-6-2", "title": "F-6-2 Người nuôi con là công dân Hàn", "summary": "Dành cho người nước ngoài nuôi dạy con chưa thành niên là công dân Hàn Quốc." },
+    "f63": { "label": "F-6-3", "title": "F-6-3 Hôn nhân đổ vỡ không do lỗi của mình", "summary": "Dành cho người không thể tiếp tục hôn nhân không do lỗi của mình và cần tiếp tục cư trú tại Hàn." }
+  },
+  "country": {
+    "tabKoreaFirst": "Đăng ký kết hôn tại Hàn Quốc trước",
+    "tabAbroadFirst": "Đăng ký kết hôn ở nước sở tại trước",
+    "metaUpdated": "Cập nhật gần nhất",
+    "metaDifficulty": "Độ phức tạp hồ sơ",
+    "metaDays": "Số ngày xử lý trung bình",
+    "checklistTitle": "Danh mục hồ sơ",
+    "noticeTitle": "Lưu ý quan trọng",
+    "regions": {
+      "동북아시아": "Đông Bắc Á",
+      "동남아시아": "Đông Nam Á",
+      "남아시아": "Nam Á",
+      "중앙아시아": "Trung Á / CIS",
+      "서유럽": "Tây Âu",
+      "북유럽": "Bắc Âu",
+      "중동유럽": "Trung & Đông Âu",
+      "북미": "Bắc Mỹ",
+      "중남미": "Mỹ Latin",
+      "오세아니아": "Châu Đại Dương",
+      "중동": "Trung Đông",
+      "아프리카": "Châu Phi"
+    },
+    "filter": { "all": "Tất cả", "search": "Tìm quốc gia", "noResult": "Không có kết quả." },
+    "difficulty": { "상": "Cao", "중": "Trung bình", "하": "Thấp" },
+    "daysSuffix": " ngày"
+  },
+  "contact": {
+    "title": "Tư vấn miễn phí visa kết hôn F-6",
+    "subtitle": "Chúng tôi phản hồi trong vòng 24 giờ.",
+    "office": {
+      "rep": "Luật sư đại diện",
+      "regNoLabel": "Số đăng ký",
+      "addressLabel": "Địa chỉ",
+      "phoneLabel": "Điện thoại",
+      "emailLabel": "Email",
+      "hoursLabel": "Giờ làm việc",
+      "hoursValue": "Thứ 2~6: 9:30 AM - 5:30 PM / Thứ 7, CN, Lễ: Nghỉ"
+    },
+    "form": {
+      "name": "Họ và tên",
+      "phone": "Số điện thoại",
+      "email": "Email",
+      "spouseCountry": "Quốc tịch vợ/chồng",
+      "selectCountry": "Chọn quốc gia",
+      "situation": "Tình trạng hiện tại",
+      "situationOptions": {
+        "preMarriage": "Chưa kết hôn (hỏi quy trình)",
+        "marriageDone": "Đã đăng ký kết hôn",
+        "visaApply": "Sắp nộp hồ sơ visa",
+        "rejected": "Đã từng bị từ chối visa",
+        "other": "Khác"
+      },
+      "preferredTime": "Thời gian muốn được tư vấn",
+      "message": "Mô tả tình huống của bạn",
+      "consent": "Tôi đồng ý cho thu thập và sử dụng thông tin cá nhân.",
+      "submit": "Gửi",
+      "submitting": "Đang gửi…",
+      "success": "Đã nhận yêu cầu. Chúng tôi sẽ liên hệ trong 24 giờ.",
+      "error": "Gửi thất bại. Vui lòng thử lại."
+    }
+  },
+  "blogList": {
+    "tag": "Trường hợp · Mẹo · Pháp luật",
+    "subtitle": "Tổng hợp các vấn đề thường gặp dựa trên thực tế xuất nhập cảnh và lãnh sự.",
+    "ctaTitle": "Cần thông tin theo từng quốc gia?",
+    "ctaText": "Quy trình và hồ sơ cho 87 quốc gia có thể tra cứu trong trang theo quốc gia.",
+    "ctaLink": "Xem theo quốc gia →",
+    "readMore": "Xem chi tiết →",
+    "recentTitle": "Bài gần đây"
+  },
+  "footer": {
+    "office": "Văn phòng Luật sư hành chính",
+    "rights": "Bảo lưu mọi quyền.",
+    "disclaimer": "Thông tin trên trang chỉ mang tính hướng dẫn. Vui lòng xác nhận với luật sư cho từng trường hợp cụ thể.",
+    "links": { "privacy": "Chính sách bảo mật", "terms": "Điều khoản" }
+  },
+  "translation": { "draftBanner": "Trang này là bản dịch máy nháp. Vui lòng tham khảo bản gốc tiếng Hàn để có thông tin chính xác." }
+}

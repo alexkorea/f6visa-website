@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-pretendard: 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  background: #FBF7E8;
+  color: #1A1A1A;
+  font-feature-settings: 'tnum' on, 'lnum' on;
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(154, 74, 31, 0.05) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* 한옥 처마 (eaves) divider — used as before/after pattern */
+.hanok-eaves {
+  position: relative;
+  --eave-color: #003478;
+}
+.hanok-eaves::before {
+  content: '';
+  position: absolute;
+  left: 0; right: 0;
+  height: 16px;
+  background-image:
+    radial-gradient(ellipse 32px 16px at 50% 100%, var(--eave-color) 0 99%, transparent 100%);
+  background-size: 32px 16px;
+  background-repeat: repeat-x;
+}
+.hanok-eaves-top::before { top: 0; }
+.hanok-eaves-bottom::before { bottom: 0; }
+
+/* 단청 색상 띠 (Korean traditional color band) */
+.dancheong-band {
+  background: linear-gradient(90deg,
+    #C60C30 0 14.28%,
+    #C9A340 14.28% 28.57%,
+    #1F6C3D 28.57% 42.85%,
+    #003478 42.85% 57.14%,
+    #2E7D7D 57.14% 71.42%,
+    #9A4A1F 71.42% 85.71%,
+    #1A1A1A 85.71% 100%
+  );
+}
+
+/* 태극 SVG inline accent */
+.taegeuk-rotate { animation: taegeuk-spin 32s linear infinite; }
+@keyframes taegeuk-spin { from { transform: rotate(0); } to { transform: rotate(360deg); } }
+
+/* Pretendard fallback via CDN */
+@font-face {
+  font-family: 'Pretendard Variable';
+  font-weight: 45 920;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/woff2/PretendardVariable.woff2') format('woff2-variations');
+}
+
+/* MDX prose tweaks */
+.prose-f6 :where(h2):not(:where([class~="not-prose"] *)) {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #003478;
+  border-left: 4px solid #C60C30;
+  padding-left: 0.75rem;
+}
+.prose-f6 :where(h3):not(:where([class~="not-prose"] *)) {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #111827;
+}
+.prose-f6 :where(p):not(:where([class~="not-prose"] *)) {
+  line-height: 1.85;
+  margin-bottom: 0.75rem;
+}
+.prose-f6 :where(ul):not(:where([class~="not-prose"] *)) {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+.prose-f6 :where(ol):not(:where([class~="not-prose"] *)) {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+.prose-f6 :where(li):not(:where([class~="not-prose"] *)) {
+  line-height: 1.7;
+  margin-bottom: 0.25rem;
+}
+.prose-f6 :where(strong):not(:where([class~="not-prose"] *)) { color: #111827; }
+.prose-f6 :where(a):not(:where([class~="not-prose"] *)) {
+  color: #C60C30;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
