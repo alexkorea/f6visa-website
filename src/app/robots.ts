@@ -4,7 +4,17 @@ const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://f6visa.com';
 
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: [{ userAgent: '*', allow: '/', disallow: ['/api/', '/admin/'] }],
+    rules: [
+      { userAgent: '*', allow: '/', disallow: ['/api/', '/admin/'] },
+      { userAgent: 'OAI-SearchBot', allow: '/' },
+      { userAgent: 'GPTBot', allow: '/' },
+      { userAgent: 'ChatGPT-User', allow: '/' },
+      { userAgent: 'ClaudeBot', allow: '/' },
+      { userAgent: 'anthropic-ai', allow: '/' },
+      { userAgent: 'PerplexityBot', allow: '/' },
+      { userAgent: 'Google-Extended', allow: '/' },
+    ],
     sitemap: `${SITE_URL}/sitemap.xml`,
+    host: 'https://www.f6visa.com',
   };
 }
