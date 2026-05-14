@@ -8,6 +8,13 @@ export interface BlogPostMeta {
 
 export const BLOG_POSTS: BlogPostMeta[] = [
   {
+    slug: 'uzbekistan-marriage-visa-f6',
+    badge: '국가별',
+    title: '우즈베키스탄 배우자 F-6 결혼비자 절차와 서류 완전 가이드',
+    summary: '우즈베키스탄 국적 배우자와 결혼한 한국인을 위해 F-6 결혼비자 신청에 필요한 서류, 단계별 절차, 심사 기준을 행정사 실무 경험을 바탕으로 상세히 안내합니다.',
+    date: '2026-05-14',
+  },
+  {
     slug: 'marriage-visa-rejection-reapplication-strategy',
     badge: '거절 사유',
     title: '결혼비자 거절 사유와 재신청 전략 — 전문 행정사가 알려드립니다',
