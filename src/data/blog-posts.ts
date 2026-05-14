@@ -8,6 +8,13 @@ export interface BlogPostMeta {
 
 export const BLOG_POSTS: BlogPostMeta[] = [
   {
+    slug: 'marriage-visa-rejection-reapplication-strategy',
+    badge: '거절 사유',
+    title: '결혼비자 거절 사유와 재신청 전략 — 전문 행정사가 알려드립니다',
+    summary: '결혼비자(F-6) 거절 사유를 정확히 파악하고 보완하면 재신청으로 허가 가능성을 높일 수 있으며, 비전행정사사무소가 20개국 이상의 실무 경험으로 맞춤 전략을 제공합니다.',
+    date: '2026-05-14',
+  },
+  {
     slug: 'f6-required-documents-2026',
     badge: '서류체크리스트',
     title: 'F-6 결혼비자 신청 서류 완벽 체크리스트 2026년',
@@ -76,6 +83,20 @@ export const BLOG_POSTS: BlogPostMeta[] = [
     title: 'F-6에서 F-5(영주)로 가는 길',
     summary: '결혼이민 영주 요건, 신청 시점, 점수표 산정 — 귀화와 비교 후 진로 결정 가이드.',
     date: '2026-04-12',
+  },
+  {
+    slug: 'f6-marriage-visa-application-process-2026',
+    badge: '신청절차',
+    title: 'F-6 결혼비자 신청 절차: 서류·기간·비용 완벽 정리 (2026)',
+    summary: 'F-6 결혼이민비자 신청 절차·필요서류·심사기간·비용을 비전행정사사무소가 정리합니다. 2026년 출입국 매뉴얼 기준.',
+    date: '2026-05-08',
+  },
+  {
+    slug: 'f6-marriage-visa-complete-guide-2026',
+    badge: 'F-6 비자',
+    title: 'F-6 결혼이민비자 완벽 가이드 2026: 신청 자격·서류·연장까지',
+    summary: 'F-6 결혼이민비자 신청 자격·필요서류·소득 요건·심사 절차를 비전행정사사무소가 출입국 매뉴얼 기준으로 정리합니다. F-5 영주권 전환·국적 취득 경로까지.',
+    date: '2026-05-07',
   },
 ];
 
