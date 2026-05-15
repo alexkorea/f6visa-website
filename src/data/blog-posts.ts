@@ -8,6 +8,13 @@ export interface BlogPostMeta {
 
 export const BLOG_POSTS: BlogPostMeta[] = [
   {
+    slug: 'mongolia-f6-marriage-visa-documents',
+    badge: '국가별',
+    title: '몽골 결혼비자 서류 준비 완벽 가이드 | F-6 신청부터 입국까지',
+    summary: '몽골 배우자 F-6 결혼비자 신청에 필요한 서류 목록, 아포스티유 공증 방법, 신청 절차를 실무 경험 기반으로 상세히 안내합니다.',
+    date: '2026-05-15',
+  },
+  {
     slug: 'uzbekistan-marriage-visa-f6',
     badge: '국가별',
     title: '우즈베키스탄 배우자 F-6 결혼비자 절차와 서류 완전 가이드',
