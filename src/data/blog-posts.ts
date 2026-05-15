@@ -8,6 +8,13 @@ export interface BlogPostMeta {
 
 export const BLOG_POSTS: BlogPostMeta[] = [
   {
+    slug: 'f6-visa-guarantor-income-requirement',
+    badge: '소득요건',
+    title: '결혼비자 보증인 활용 완전 가이드 — F-6 소득요건 부족 시 해결책',
+    summary: 'F-6 결혼비자 소득요건이 부족한 경우 적격 보증인을 세우면 비자 신청이 가능하며, 자격 요건·제출 서류·신청 절차를 단계별로 안내합니다.',
+    date: '2026-05-15',
+  },
+  {
     slug: 'mongolia-f6-marriage-visa-documents',
     badge: '국가별',
     title: '몽골 결혼비자 서류 준비 완벽 가이드 | F-6 신청부터 입국까지',
