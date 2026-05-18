@@ -50,24 +50,10 @@ export const BLOG_POSTS: BlogPostMeta[] = [
     date: '2026-05-13',
   },
   {
-    slug: 'thai-marriage-visa-process',
-    badge: '국가별',
-    title: '태국 결혼비자 신청 절차와 준비 서류 가이드',
-    summary: '',
-    date: '2026-04-27',
-  },
-  {
     slug: 'f6-philippines-spouse-visa-doc-checklist',
     badge: '국가별',
     title: '필리핀 배우자 F-6 결혼비자 서류 체크리스트 완벽 가이드',
     summary: '',
-    date: '2026-04-25',
-  },
-  {
-    slug: 'f6-rejected-causes',
-    badge: '거절 사유',
-    title: 'F-6 거절 사례 5가지와 재신청 전략',
-    summary: '소득요건·가족관계등록·면접 응답 모순 등 출입국이 자주 보는 거절 사유를 사례 중심으로 정리합니다.',
     date: '2026-04-25',
   },
   {
@@ -76,13 +62,6 @@ export const BLOG_POSTS: BlogPostMeta[] = [
     title: '2026년 결혼비자 소득요건 총정리',
     summary: '연간 소득금액 산정 기준, 인정되지 않는 소득, 보증인 활용 가능성을 출입국 매뉴얼 기준으로 정리.',
     date: '2026-04-23',
-  },
-  {
-    slug: 'vietnam-cert-marriage-eligibility',
-    badge: '국가별',
-    title: '베트남 혼인요건인증서 발급 절차 (서울·부산 영사관 차이)',
-    summary: '주한베트남대사관과 부산 총영사관의 처리 일정·필요서류 비교, 속행 옵션 안내.',
-    date: '2026-04-20',
   },
   {
     slug: 'china-affidavit-of-single',
@@ -104,13 +83,6 @@ export const BLOG_POSTS: BlogPostMeta[] = [
     title: 'F-6에서 F-5(영주)로 가는 길',
     summary: '결혼이민 영주 요건, 신청 시점, 점수표 산정 — 귀화와 비교 후 진로 결정 가이드.',
     date: '2026-04-12',
-  },
-  {
-    slug: 'f6-marriage-visa-application-process-2026',
-    badge: '신청절차',
-    title: 'F-6 결혼비자 신청 절차: 서류·기간·비용 완벽 정리 (2026)',
-    summary: 'F-6 결혼이민비자 신청 절차·필요서류·심사기간·비용을 비전행정사사무소가 정리합니다. 2026년 출입국 매뉴얼 기준.',
-    date: '2026-05-08',
   },
   {
     slug: 'f6-marriage-visa-complete-guide-2026',
