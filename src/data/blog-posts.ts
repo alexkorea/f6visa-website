@@ -8,6 +8,48 @@ export interface BlogPostMeta {
 
 export const BLOG_POSTS: BlogPostMeta[] = [
   {
+    slug: 'f6-visa-after-divorce-stay-options',
+    badge: '이혼·체류',
+    title: 'F-6 비자 이혼 후 체류 방법 | 이혼 시 비자 유지와 전환 가이드',
+    summary: 'F-6 결혼비자 소지자가 이혼 후 체류자격을 유지하거나 다른 체류자격으로 전환하는 방법을 상세히 안내합니다.',
+    date: '2026-05-19',
+  },
+  {
+    slug: 'f6-visa-divorce-status',
+    badge: '이혼·체류',
+    title: 'F-6 비자 소지자 이혼 후 체류자격 처리 방법',
+    summary: '이혼 또는 배우자 사망 시 F-6 비자 소지자가 취할 수 있는 체류자격 유지 및 변경 절차를 안내합니다.',
+    date: '2026-05-19',
+  },
+  {
+    slug: 'f6-visa-employment-rights',
+    badge: '취업권리',
+    title: 'F-6 결혼비자로 한국에서 취업할 수 있나요? — 취업 권리와 제한 완벽 정리',
+    summary: 'F-6 결혼이민비자 소지자의 취업 허용 범위, 취업 절차, 제한 사항을 출입국관리법 기준으로 정리합니다.',
+    date: '2026-05-19',
+  },
+  {
+    slug: 'f6-visa-naturalization-guide',
+    badge: '귀화',
+    title: 'F-6 비자에서 귀화 신청 방법 — 간이귀화 완전 가이드',
+    summary: 'F-6 결혼이민비자 소지자가 간이귀화를 신청하는 요건, 절차, 필요 서류를 단계별로 안내합니다.',
+    date: '2026-05-19',
+  },
+  {
+    slug: 'f6-visa-renewal-guide',
+    badge: '갱신',
+    title: 'F-6 결혼비자 체류기간 연장(갱신) 완벽 가이드 — 신청 시기·서류·주의사항',
+    summary: 'F-6 결혼비자 체류기간 연장 신청 시기, 필요 서류, 심사 기준, 자주 발생하는 거절 사유를 실무 중심으로 안내합니다.',
+    date: '2026-05-19',
+  },
+  {
+    slug: 'f6-visa-renewal-procedure-guide',
+    badge: '갱신',
+    title: 'F-6 결혼비자 갱신 절차 완전 가이드 | 필요서류와 주의사항',
+    summary: 'F-6 결혼비자 갱신 절차를 신청서 작성부터 허가까지 단계별로 정리합니다.',
+    date: '2026-05-19',
+  },
+  {
     slug: 'f6-visa-guarantor-income-requirement',
     badge: '소득요건',
     title: '결혼비자 보증인 활용 완전 가이드 — F-6 소득요건 부족 시 해결책',
