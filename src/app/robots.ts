@@ -17,6 +17,6 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: 'Bingbot', allow: '/' },
     ],
     sitemap: `${SITE_URL}/sitemap.xml`,
-    host: 'https://www.f6visa.com',
+    host: 'https://f6visa.com',
   };
 }
