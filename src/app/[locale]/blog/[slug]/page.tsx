@@ -15,6 +15,8 @@ import { BLOG_POSTS, findBlogPost } from '@/data/blog-posts';
 import type { Locale } from '@/i18n/config';
 import { InlineCTAForm } from '@/components/InlineCTAForm';
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return BLOG_POSTS.map(p => ({ slug: p.slug }));
 }
