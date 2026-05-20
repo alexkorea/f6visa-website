@@ -8,6 +8,20 @@ export interface BlogPostMeta {
 
 export const BLOG_POSTS: BlogPostMeta[] = [
   {
+    slug: 'f6-visa-pregnancy-extension',
+    badge: '임신·출산',
+    title: 'F-6 비자 임신·출산 시 체류기간 연장 방법 2026',
+    summary: 'F-6 비자 소지자가 임신 중이거나 출산한 경우 체류기간 연장에 필요한 요건과 절차를 안내합니다.',
+    date: '2026-05-20',
+  },
+  {
+    slug: 'f6-visa-child-status-application',
+    badge: '자녀체류',
+    title: 'F-6 비자 자녀 체류자격 신청 방법 — 출생신고부터 외국인등록까지',
+    summary: 'F-6 결혼비자 소지자의 자녀가 한국에서 체류하려면 출생신고 후 체류자격을 신청해야 합니다.',
+    date: '2026-05-20',
+  },
+  {
     slug: 'f6-visa-after-divorce-stay-options',
     badge: '이혼·체류',
     title: 'F-6 비자 이혼 후 체류 방법 | 이혼 시 비자 유지와 전환 가이드',
