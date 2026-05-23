@@ -1,0 +1,148 @@
+{
+  "site": {
+    "name": "f6visa.com",
+    "tagline": "韩国F-6结婚签证 — 专业咨询服务",
+    "description": "为87个国家的外国配偶提供F-6-1、F-6-2、F-6-3结婚签证申请的全程指导及国别文件要求说明。"
+  },
+  "nav": {
+    "home": "首页",
+    "visa": "F-6签证",
+    "f61": "F-6-1",
+    "f62": "F-6-2",
+    "f63": "F-6-3",
+    "countries": "按国家",
+    "tools": "工具",
+    "tools_eligibility": "资格检查",
+    "tools_checklist": "文件清单",
+    "tools_estimator": "费用估算",
+    "blog": "案例博客",
+    "about": "关于我们",
+    "contact": "免费咨询"
+  },
+  "cta": {
+    "consult": "免费咨询",
+    "consultShort": "咨询",
+    "viewMore": "了解更多",
+    "viewAll": "查看全部",
+    "downloadChecklist": "下载文件清单（PDF）"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "持牌行政士直接办理",
+      "title": "韩国F-6结婚签证，全程代办",
+      "subtitle": "我们为来自87个国家的配偶办理结婚登记及F-6结婚签证申请——越南、泰国、菲律宾、中国、日本、俄罗斯等。",
+      "selectCountry": "选择配偶国籍",
+      "search": "搜索国家"
+    },
+    "featuredCountries": "热门国家",
+    "process": {
+      "title": "F-6申请三步走",
+      "step1": { "title": "1. 免费咨询", "desc": "评估您的情况及配偶国籍。" },
+      "step2": { "title": "2. 准备文件", "desc": "按国家定制文件清单，公证翻译全程处理。" },
+      "step3": { "title": "3. 签证签发", "desc": "我们代为向韩国出入境管理局提交申请，直至签证签发。" }
+    },
+    "trust": {
+      "title": "为什么选择f6visa.com",
+      "items": [
+        { "title": "持牌行政士直接处理", "desc": "非中介，而是注册韩国行政士直接审查并代理您的案件。" },
+        { "title": "87国案例数据库", "desc": "涵盖东南亚、独联体、欧洲、拉丁美洲、中东及非洲的流程。" },
+        { "title": "最新法规", "desc": "出入境法及官方手册的更新即时反映。" }
+      ]
+    },
+    "blogTitle": "最新案例与常见问题"
+  },
+  "visa": {
+    "f61": {
+      "label": "F-6-1",
+      "title": "F-6-1 韩国国民配偶",
+      "summary": "适用于与韩国国民合法结婚并打算在韩国共同居住的外国配偶。"
+    },
+    "f62": {
+      "label": "F-6-2",
+      "title": "F-6-2 韩国子女抚养",
+      "summary": "适用于需要在韩国抚养与韩国国民所生未成年子女的外国人。"
+    },
+    "f63": {
+      "label": "F-6-3",
+      "title": "F-6-3 非本人过失婚姻解除",
+      "summary": "适用于因非本人过失无法维持婚姻且需要继续在韩国居留的人员。"
+    }
+  },
+  "country": {
+    "tabKoreaFirst": "先在韩国登记结婚",
+    "tabAbroadFirst": "先在国外登记结婚",
+    "metaUpdated": "最后更新",
+    "metaDifficulty": "文件复杂程度",
+    "metaDays": "平均处理天数",
+    "checklistTitle": "文件清单",
+    "noticeTitle": "重要注意事项",
+    "regions": {
+      "동북아시아": "东北亚",
+      "동남아시아": "东南亚",
+      "남아시아": "南亚",
+      "중앙아시아": "中亚/独联体",
+      "서유럽": "西欧",
+      "북유럽": "北欧",
+      "중동유럽": "中东欧",
+      "북미": "北美",
+      "중남미": "拉丁美洲",
+      "오세아니아": "大洋洲",
+      "중동": "中东",
+      "아프리카": "非洲"
+    },
+    "filter": { "all": "全部", "search": "搜索国家", "noResult": "无匹配结果。" },
+    "difficulty": { "상": "高", "중": "中", "하": "低" },
+    "daysSuffix": " 天"
+  },
+  "contact": {
+    "title": "F-6结婚签证免费咨询",
+    "subtitle": "24小时内回复。",
+    "office": {
+      "rep": "首席行政士",
+      "regNoLabel": "执照号",
+      "addressLabel": "地址",
+      "phoneLabel": "电话",
+      "emailLabel": "邮箱",
+      "hoursLabel": "办公时间",
+      "hoursValue": "周一至周五 9:30 AM - 5:30 PM / 周六、周日及法定假日：休息"
+    },
+    "form": {
+      "name": "姓名",
+      "phone": "电话",
+      "email": "邮箱",
+      "spouseCountry": "配偶国籍",
+      "selectCountry": "选择国家",
+      "situation": "当前情况",
+      "situationOptions": {
+        "preMarriage": "结婚前（流程咨询）",
+        "marriageDone": "已完成结婚登记",
+        "visaApply": "即将申请签证",
+        "rejected": "曾被拒签",
+        "other": "其他"
+      },
+      "preferredTime": "希望咨询时间",
+      "message": "请描述您的情况",
+      "consent": "我同意收集和使用我的个人信息。",
+      "submit": "提交",
+      "submitting": "提交中…",
+      "success": "您的申请已收到。我们将在24小时内回复。",
+      "error": "提交失败，请稍后再试。"
+    }
+  },
+  "blogList": {
+    "tag": "案例·技巧·法规",
+    "subtitle": "从出入境及领事馆实务中提炼的常见问题。",
+    "ctaTitle": "需要了解特定国家的流程？",
+    "ctaText": "87个国家的结婚登记流程及文件要求已整理在国别页面。",
+    "ctaLink": "按国家查看 →",
+    "readMore": "阅读更多 →",
+    "recentTitle": "最新文章"
+  },
+  "footer": {
+    "office": "行政士事务所",
+    "rights": "版权所有。",
+    "disclaimer": "本网站信息仅供一般参考，具体案件请向持牌行政士确认。",
+    "links": { "privacy": "隐私政策", "terms": "服务条款" }
+  },
+  "translation": { "draftBanner": "此页面为机器翻译草稿，准确流程请参考韩文原版。" }
+}
