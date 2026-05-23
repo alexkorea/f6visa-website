@@ -7,8 +7,8 @@ export const metadata: Metadata = {
     default: 'F-6 Marriage Visa Korea | 결혼비자 전문 — f6visa.com',
     template: '%s | f6visa.com'
   },
-  description: 'F-6 marriage visa Korea — renewal, spouse visa, documents, and work permit guide. F-6 결혼비자 신청·갱신·서류 전문 행정사 컨설팅. Expert support in KO/EN/VI/TH/RU.',
-  keywords: ['F-6 visa Korea', 'marriage visa Korea', 'spouse visa Korea', 'F6 visa renewal', '결혼비자', '결혼비자 갱신', '결혼비자 서류', 'F-6 결혼이민'],
+  description: 'F-6 marriage visa Korea — renewal, spouse visa, documents, and work permit guide. F-6 결혼비자 신청·갱신·서류 전문 행정사 컨설팅. Expert support in KO/EN/VI/TH/RU/ZH.',
+  keywords: ['F-6 visa', 'F-6-1 visa requirements Korea', 'F-6-2 cohabitation visa Korea', '베트남 결혼비자', 'divorce visa Korea', 'F-6 비자 서류 목록', 'Korean marriage registration', 'F-6 visa processing time', '한국 결혼비자 신청', 'Thai F-6 visa Korea', '이혼비자', '자녀양육비자'],
   robots: { index: true, follow: true },
   openGraph: {
     title: 'F-6 Marriage Visa Korea | 결혼비자 전문 — f6visa.com',
