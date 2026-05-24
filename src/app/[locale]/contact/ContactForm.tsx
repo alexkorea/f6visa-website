@@ -5,11 +5,10 @@ import Link from 'next/link';
 import { Button } from '@/components/ui/Button';
 
 const services = [
-  { value: "F-6 결혼비자 신청", label: "F-6 결혼비자 신청", sub: "Marriage Visa", icon: "💍" },
-  { value: "F-6 비자 갱신", label: "F-6 비자 갱신", sub: "Renewal", icon: "🔄" },
-  { value: "F-6 거절 후 재신청", label: "F-6 거절 후 재신청", sub: "Re-application", icon: "📋" },
-  { value: "F-5 전환", label: "F-5 전환", sub: "Permanent Residency", icon: "🏅" },
-  { value: "F-6-2 이혼/사별", label: "F-6-2 이혼/사별", sub: "Divorce/Bereavement", icon: "📄" },
+  { value: "F-6-1 결혼비자", label: "F-6-1 결혼비자", sub: "Marriage Visa (F-6-1)", icon: "💍" },
+  { value: "F-6-2 혼인단절 ( 자녀양육 등 )", label: "F-6-2 혼인단절 ( 자녀양육 등 )", sub: "Marital Breakdown (Child)", icon: "👶" },
+  { value: "F-6-3 상대방 귀책사유", label: "F-6-3 상대방 귀책사유", sub: "Spouse at Fault (F-6-3)", icon: "📋" },
+  { value: "전혼자녀입양", label: "전혼자녀입양", sub: "Adoption of Prior Child", icon: "📄" },
   { value: "기타", label: "기타", sub: "Other", icon: "💬" },
 ];
 
