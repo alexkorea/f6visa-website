@@ -147,6 +147,20 @@ export const BLOG_POSTS: BlogPostMeta[] = [
     summary: 'F-6 결혼이민비자 신청 자격·필요서류·소득 요건·심사 절차를 비전행정사사무소가 출입국 매뉴얼 기준으로 정리합니다. F-5 영주권 전환·국적 취득 경로까지.',
     date: '2026-05-07',
   },
+  {
+    slug: 'f6-visa-eligibility-requirements-20260527',
+    badge: 'F-6 자격',
+    title: 'F-6 결혼비자 신청 자격 요건 2026 — 한국인과 결혼한 외국인 완벽 가이드',
+    summary: 'F-6 결혼이민비자 신청 자격 요건을 2026년 최신 기준으로 정리했습니다. 혼인 요건, 소득 기준, 필요 서류, 심사 포인트를 전문 행정사가 안내합니다.',
+    date: '2026-05-27',
+  },
+  {
+    slug: 'f6-visa-renewal-documents-20260527',
+    badge: '갱신서류',
+    title: 'F-6 결혼비자 갱신 신청 서류 완벽 정리 2026 — 실수 없이 준비하는 법',
+    summary: 'F-6 결혼이민비자 갱신에 필요한 서류를 2026년 기준으로 완벽하게 정리했습니다. 결혼 유지 증빙, 소득 서류, 접수 요령까지 실무 중심으로 안내합니다.',
+    date: '2026-05-27',
+  },
 ];
 
 export function findBlogPost(slug: string): BlogPostMeta | undefined {
