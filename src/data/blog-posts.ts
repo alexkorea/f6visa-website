@@ -8,6 +8,20 @@ export interface BlogPostMeta {
 
 export const BLOG_POSTS: BlogPostMeta[] = [
   {
+    slug: 'f6-visa-required-documents-checklist-2026',
+    badge: '서류체크리스트',
+    title: 'F-6-1 결혼이민 비자 필수 서류 체크리스트 2026',
+    summary: 'F-6-1 결혼이민 비자 신청에 필요한 서류를 국가별·상황별로 정리한 완벽 체크리스트입니다.',
+    date: '2026-05-29',
+  },
+  {
+    slug: 'f6-2-visa-renewal-guide-2026',
+    badge: '갱신',
+    title: 'F-6-2 비자 갱신 절차 및 주의사항 완벽 가이드 2026',
+    summary: 'F-6-2 비자 갱신 신청 시기, 필요 서류, 심사 기준과 거절 사유를 2026년 기준으로 안내합니다.',
+    date: '2026-05-29',
+  },
+  {
     slug: 'f6-visa-pregnancy-extension',
     badge: '임신·출산',
     title: 'F-6 비자 임신·출산 시 체류기간 연장 방법 2026',
