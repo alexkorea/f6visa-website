@@ -38,6 +38,8 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <head>
+        <meta name="naver-site-verification" content="8216eb38c5f6e101d137255bda1ba92203d078bf" />
+        <meta name="msvalidate.01" content="9040F35010B56E1A9C560DD7708280D7" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(JSON_LD) }} />
       </head>
       <body className="font-sans antialiased min-h-screen flex flex-col">
